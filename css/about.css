@@ -1,0 +1,29 @@
+
+h1 {
+	font-family: Comic Sans MS, Verdana, sans-serif;
+	font-weight: bold;
+	color: white;
+	background-color: teal;
+}
+
+#skills li {
+	font-size: 18px;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+a:visited {
+	
+}
+
+a:hover {
+	color: pink;
+	text-decoration: underline;
+}
+
+#java h1 {
+	background-color: orange;
+	color: white;
+}
