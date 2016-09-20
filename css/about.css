@@ -19,11 +19,21 @@ a:visited {
 }
 
 a:hover {
-	color: pink;
+	color: blue;
 	text-decoration: underline;
 }
 
 #java h1 {
 	background-color: orange;
-	color: white;
 }
+
+#C h1 {
+	background-color: blue;
+}
+
+#Python h1 {
+	background-color: red;
+}
+
+#Website h1 {
+	background-color: green;
